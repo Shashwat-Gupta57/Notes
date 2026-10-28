@@ -1,0 +1,4 @@
+background:#FFFFFF
+textColor:#000000
+font:Consolas,0,16
+BG_Image:null
